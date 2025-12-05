@@ -1,2 +1,1 @@
-# potential-waddle
-Initial commit
+.cursor/environment.json
