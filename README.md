@@ -1,2 +1,0 @@
-# potential-waddle
-Initial commit
